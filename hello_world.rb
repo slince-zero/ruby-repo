@@ -8,3 +8,10 @@ puts 'there are some spaces here'
 print 'hello '
 print 'world '
 print '!!'
+
+p '1111'
+
+p 'hi, there is a little cat!!'
+p 'hi, there is a 
+little cat!!'
+
